@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nehla1999
-- 👀 I’m interested in numbers, logic, data and ofc, MCU
+- 👀 I’m interested in numbers, logic, and data
 - 🌱 I’m currently pursuing a Master's in Operational Research
 - 🌷 I occasionaly write at https://nehla99.medium.com/
 - 📫 You can contact me at nehla99@gmail.com
